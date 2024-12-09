@@ -1,1 +1,1 @@
-Educational app created with React + Ts. In this interactive app, you can search for superheroes, filter between DC or Marvel heroes.
+Educational app created with React + Ts + Redux + Router. In this interactive app, you can search for superheroes, filter between DC or Marvel heroes.
